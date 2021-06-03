@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The hue and cry after those rambling protonotaries of the times. Mercurius Elenticus. Britanicus. Melancholicus. and Aulicus. Published by authority.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86690</idno><idno type="EEBO-CITATION">99865531</idno>
+  <idno type="VID">117776</idno>
+  <idno type="EEBO-PROQUEST">2240932749</idno>
+  
+            <idno type="STC">Wing H3295</idno>
+            <idno type="STC">Thomason E623_6</idno>
+            <idno type="STC">ESTC R206370</idno>
+            <idno type="PROQUEST">99865531</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99865531e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86690)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117776)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 96:E623[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The hue and cry after those rambling protonotaries of the times. Mercurius Elenticus. Britanicus. Melancholicus. and Aulicus. Published by authority.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B. Alsop,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLI. [1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: "Feb: 7".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>The names "Elenticus..Aulicus" following "Mercurius" are bracketed together.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Satire, English --  Early works to 1800.</term>
+               <term type="topical_term">Pamphleteers --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117776:1"/>
+            <p>
+               <hi>THE</hi> HUE and CRY After those RAMBLING PROTONOTARIES Of the TIMES.</p>
+            <list>
+               <item>Mercurius Elenticus.</item>
+               <item>Mercurius Britanicus.</item>
+               <item>Mercurius Melancholicus. and</item>
+               <item>Mercurius Aulicus.</item>
+            </list>
+            <q xml:lang="lat">
+               <l>Tu Captas alios, jàm sumus ergò pares.</l>
+               <bibl>Mart: <hi>Epig.</hi>
+               </bibl>
+            </q>
+            <p>Published by Authority.</p>
+            <figure>
+               <q xml:lang="lat">VERITAS VIRESSIT VVLNERE</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed by <hi>B. Alsop,</hi> MDCLI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:117776:2"/>
+            <pb n="1" facs="tcp:117776:2"/>
+            <head>THE HVE and CRY After Those rambling Protonotaries of the times <hi>MERCVRIVS, ELENTICVS, BRI<g ref="char:EOLhyphen"/>TANICVS, MELANCHOLLI<g ref="char:EOLhyphen"/>CVS,</hi> and <hi>AVLICVS.</hi>
+            </head>
+            <l>HUsh! what <hi>Morphean</hi> spell hath lull'd asleep</l>
+            <l>These blustring souls? Or do they sadly creep,</l>
+            <l>Charm'd with a <hi>Gyges</hi> ring discern'd by none</l>
+            <l>But th' Complices of their own faction?</l>
+            <pb n="2" facs="tcp:117776:3"/>
+            <l> Why how now Gallants? is it possible</l>
+            <l>Such <hi>rantum tantum</hi> Heroes of the quill,</l>
+            <l>Which aw'd our ripest actions, should be</l>
+            <l>Thus silently damp't in obscurity?</l>
+            <l>And that brave flash, <hi>Quis me impu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>è lacescit</hi>
+            </l>
+            <l>Shrunk to a poor contemptible <hi>Quiescit?</hi>
+            </l>
+            <l>Most horrid Change! the grand Monopolie</l>
+            <l>Of reprehension routed? forc'd to flie</l>
+            <l>To gloomy shades lockt from the vulgar Air,</l>
+            <l>Which durst confront the Senate, and the Chair?</l>
+            <l>What Heretick could have maintain'd that these</l>
+            <l>Should lesse then be the latest Arteries</l>
+            <l>Mov'd in the Royall Cause? nay when black fate</l>
+            <l>Had sunck their Armies through intestine hate,</l>
+            <l>Stand on the ruines to survive the fall,</l>
+            <l>And raise new from their dust and funerall?</l>
+            <l>But O they are unkennell'd, shab'd, and gone:</l>
+            <l>Else their <hi>Gygantick riff raff,</hi> would have flown,</l>
+            <l>Wing'd with a rampant <hi>bastinado</hi> stile</l>
+            <l>In sculs about the City. O what guile</l>
+            <l>Hath countermin'd this <hi>Crotchet?</hi> which so long</l>
+            <l>Masqu'd like a subtile whiffler in a throng?</l>
+            <l>Seven tedious winters have they serv'd in rime</l>
+            <l>And obtrectation to reprove the Time.</l>
+            <l>But now unhappy boyes slunk all away</l>
+            <l>
+               <hi>Sans</hi> their Indentures at the parting day.</l>
+            <l>But I'le pursue their footsteps which perchance</l>
+            <l>May help as much as a recognizance.</l>
+            <l>Ho! Countryman! didst meet a scared crew</l>
+            <l>Of <hi>Shabbaliseoes?</hi> a partiperpal'd blew</l>
+            <pb n="3" facs="tcp:117776:3"/>
+            <l> Messe of Intelligence? with hare-goose eyes</l>
+            <l>Staring like Thieves scap'd from a grand Assize?</l>
+            <l>Whom in thy sweet mistake thou once didst call</l>
+            <l>The volk that benn'd the weekly Urinall?</l>
+            <l>Sweating like butter'd Moons stew'd in their grease?</l>
+            <l>Blenching each bush like a Justice of Peace,</l>
+            <l>Serjeant, or Constable? prest to apprehend</l>
+            <l>Their bodies, as their wits? and to suspend</l>
+            <l>Their news and selves a while? prithee canst tell</l>
+            <l>Me any hint? revolve th' emergent smell</l>
+            <l>Foreran that Caravan of soil came after,</l>
+            <l>To charge thy nose with stench, thy brest with laugh<g ref="char:EOLhyphen"/>ter.</l>
+            <l>Their rich imbroider'd breeches rent and tore</l>
+            <l>With copious slits to vent their golden Ore:</l>
+            <l>Which in abundance issu'd down their thighs</l>
+            <l>In plenteous veins through th' heat of jealousies.</l>
+            <l>For <hi>Falconbridge</hi> the Beadle (as they say)</l>
+            <l>Appear'd to them in vision th' other day.</l>
+            <l>Ho <hi>Aulicus!</hi> if one could possibly</l>
+            <l>Retrive thy lamentable Phisnomie,</l>
+            <l>What sad conclusions might I gather thence?</l>
+            <l>How like a smoaky Herring in suspence</l>
+            <l>Thy parboil'd Rabbet-ship now sneaks about</l>
+            <l>Peaking as if thy <hi>Genius</hi> were thrown out</l>
+            <l>To pen the sear'd worlds Epitaph. At best,</l>
+            <l>Thy meagre presence was a Lenten jest.</l>
+            <l>A meer Anatomy of bones, a trick</l>
+            <l>Put upon nature, a Coarse called quick.</l>
+            <l>What ghostly <hi>Metempseuchosis</hi> must then</l>
+            <l>Thy fears refine thee to? Attome of men!</l>
+            <pb n="4" facs="tcp:117776:4"/>
+            <l> Perhaps thy thinner extract may be such</l>
+            <l>To rarifie beyond our sight or touch.</l>
+            <l>A pretty sharp evasion to get free</l>
+            <l>From the after-game of thy fraternity.</l>
+            <l>Those Counter-currs: which when men most shall NEED 'um</l>
+            <l>Will bark on any side to shark their freedome.</l>
+            <l>To thine eternall credit be it told,</l>
+            <l>Thou art the onely man dares say and hold.</l>
+            <l>These shuffling shakebags, w<seg rend="sup">ch</seg> can boxe their coats,</l>
+            <l>And tune their mercenary hones and throats</l>
+            <l>To any pitch or humour, let them be</l>
+            <l>Kick'd for a flexible neutrality.</l>
+            <l>Love Treason, hate the Traytor. They that take</l>
+            <l>Up arms, nay ev'n rebell for conscience sake,</l>
+            <l>And stick to their first principle's intent,</l>
+            <l>Though the cause ill are semi-innocent.</l>
+            <l>But lukewarm doublers let them deny'd</l>
+            <l>Th' enjoyment of the curse of the worst side.</l>
+            <l>And hang them up 'twixt heav'n and earth, t' expresse</l>
+            <l>They have arriv'd once at a setlednesse.</l>
+            <l>Else may some dextrous Doctour of the Post</l>
+            <l>Scourge with a dog-whip this Mercurian rost</l>
+            <l>Of Sckipping Batretters, 'tis granted good</l>
+            <l>To purge those <hi>super Crescencies</hi> of blood</l>
+            <l>Which frolick in the veins of Malecontents,</l>
+            <l>And breeds a grief call'd Evil instruments,</l>
+            <l>Yet my <hi>Bridewellian Champion,</hi> stay thy hand,</l>
+            <l>And be advis'd a little in this grand</l>
+            <l>Industrious Expedition. Some there be</l>
+            <l>Claim just excuse for their simplicity,</l>
+            <pb n="5" facs="tcp:117776:4"/>
+            <l> The vulgar flesh-Flies; which depend alone</l>
+            <l>Upon event and apparition:</l>
+            <l>These passe for numbers sake, they'le cloy thee quite,</l>
+            <l>And thy Arithmetique. But swinge the right.</l>
+            <l>To <hi>Pauls</hi> Church-yard direct thy rambling whip,</l>
+            <l>There <hi>Melancholicus</hi> lols, biting's lip,</l>
+            <l>Storming to see his Fobs such Cowards grow,</l>
+            <l>And cannot one poor ounce of mettal show:</l>
+            <l>His clouded features mingled all together,</l>
+            <l>Look like an endlesse Series of ill weather.</l>
+            <l>Confine him till th' hast found <hi>Britanicus,</hi>
+            </l>
+            <l>That sniveling <hi>Retrograde</hi> at th' holy Buss,</l>
+            <l>With some sweet <hi>Ruth</hi> behind a Kitchin-door,</l>
+            <l>Or wheel-barrow fashion riggling of a W—</l>
+            <l>Give his salacious Appetite a touch,</l>
+            <l>To mittigate his itch not overmuch.</l>
+            <l>Then down the Strand, observe the signs I tell you,</l>
+            <l>A strange <hi>Rhinoceros</hi> with a shotten belly</l>
+            <l>And trapstick leggs (who will not judge him stout</l>
+            <l>That on such props dares venture such a Lout?)</l>
+            <l>Will soon occure; which formerly 'tis said</l>
+            <l>Berayd <hi>Elenticus</hi> now buried</l>
+            <l>In a new term <hi>Politicus,</hi> a word</l>
+            <l>May henceforth stand for a recanting T—</l>
+            <l>Bast his back gammons, that his Patrons dripping</l>
+            <l>May work out at his sides like leaks from shipping.</l>
+            <l>Lash him through all his names, let no disguise</l>
+            <l>Be thick enough to gloze his forgeries.</l>
+            <l>A Satyr which can blow both hot and cold,</l>
+            <l>Out of one mouth, stain vertu's self for gold.</l>
+            <pb n="6" facs="tcp:117776:5"/>
+            <l> Mince his <hi>gambadoes</hi> well in every shape,</l>
+            <l>And let him know an Ape is still an Ape</l>
+            <l>Though clad with Lions skins, and when his gore</l>
+            <l>Has run enough to stew the two before,</l>
+            <l>Let them pertake alike thine instrument,</l>
+            <l>Till thou perceivest Apostacy quite spent.</l>
+            <l>Then least their Physick purge them to their graves,</l>
+            <l>Dismisse them for a leash of juggling Knaves.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
